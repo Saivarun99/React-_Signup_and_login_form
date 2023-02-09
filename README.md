@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# SIGN-UP AND LOGIN FORM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+This is a Simple Signup and Login page done completely using React.
 
 ## Available Scripts
 
