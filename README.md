@@ -2,7 +2,7 @@
 
 
 
-This is a Simple Signup and Login page using React.Js
+This is a Simple Signup and Login form using React.Js
 
 ## Available Scripts
 
